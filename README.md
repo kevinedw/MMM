@@ -4,10 +4,10 @@ Marketing Mixed Modeling
 ## Overview
 The objective was to view the effects of each marketing channel on sales, and on each other. For instance, is radio affecting all the other channels, and is it affecting sales?
 
-<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_2-cl.jpg" width="500" />
-<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-predictEffect.jpg" width="500" />
-<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-spend.jpg" width="500" />
-<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-spendPerc.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/channels.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/predictEffect.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/shareMediaSpend.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/shareMediaSpendPercentage.jpg" width="500" />
 
 
 ## Code and Applications Used:
