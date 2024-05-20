@@ -2,7 +2,7 @@
 Marketing Mixed Modeling
 
 ## Overview
-The objective was to view the effects of each marketing channel on sales and the affect of all on each other. For instance, with radio a non-digital and difficult channel to access, how is it affecting all the other channels, and is it affecting sales?
+The objective was to view the effects of each marketing channel on sales, and on each other. For instance, with radio a non-digital and difficult channel to access, how is it affecting all the other channels, and is it affecting sales?
 
 <img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_2-cl.jpg" width="500" />
 <img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-predictEffect.jpg" width="500" />
@@ -10,13 +10,13 @@ The objective was to view the effects of each marketing channel on sales and the
 <img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-spendPerc.jpg" width="500" />
 
 
-## Code Used:
+## Code and Applications Used:
+* R / RStudio
 * Robyn 3.10
-* Python: python 3.11.8
-* Packages: numpy, pandas, seaborn, matplotlib, sklearn, os
 * SQL Server
 * Anaconda 2.6.0
 * Power BI
+* Excel
 
 ## Data Sources
 * Saleforce
