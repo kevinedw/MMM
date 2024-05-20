@@ -7,6 +7,7 @@ The objective was to view the effects of each marketing channel on sales and the
 <img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_2-cl.jpg" width="500" />
 <img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-predictEffect.jpg" width="500" />
 <img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-spend.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3-spendPerc.jpg" width="500" />
 
 
 ## Code Used:
