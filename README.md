@@ -16,6 +16,7 @@ The objective was to view the effects of each marketing channel on sales and the
 * Packages: numpy, pandas, seaborn, matplotlib, sklearn, os
 * SQL Server
 * Anaconda 2.6.0
+* Power BI
 
 ## Data Sources
 * Saleforce
@@ -25,7 +26,7 @@ The objective was to view the effects of each marketing channel on sales and the
 * Radio and TV estimates
 * Youtube
 
-*Data privacy through one or many of the following steps applied to original data: random functions, deletion/addition, other math functions*
+*Data privacy through one or many of the following steps applied to original data: random functions, deletion/addition, other math functions, and redaction*
 
 ## Data Cleaning
 * SQL
@@ -38,6 +39,6 @@ this project, it was hand-edited in Excel to delete columns for individual chann
 [SQL file](https://github.com/wylee3/marketing-linear-regressions/blob/9a1fc2df0952b384e930bc9e68a45cb49eb52003/SQL-CorrelationPrep_v3-portfolio.sql)
 
 ## Exploratory Data Analysis (EDA)
-This gave insight into the best correlating channel which went against marketing's pre-determined gut feelings.
+This 
 
 ## Model Building
