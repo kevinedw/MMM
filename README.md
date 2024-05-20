@@ -4,7 +4,9 @@ Marketing Mixed Modeling
 ## Overview
 The objective was to view the effects of each marketing channel on sales and the affect of all on each other. For instance, with radio a non-digital and difficult channel to access, how is it affecting all the other channels, and is it affecting sales?
 
-<img src="https://github.com/wylee3/marketing-linear-regressions/blob/main/Facebook_feed_Impr.png" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_2-cl.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_-predictEffect.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/RobynData-to-visuals_Page_3.jpg" width="500" />
 
 
 ## Code Used:
