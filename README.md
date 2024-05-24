@@ -37,6 +37,9 @@ Roughly 15 csv files were imported into SQL Server where specific columns were t
 [SQL file](https://github.com/wylee3/marketing-linear-regressions/blob/9a1fc2df0952b384e930bc9e68a45cb49eb52003/SQL-CorrelationPrep_v3-portfolio.sql)
 
 ## Exploratory Data Analysis (EDA)
-This 
+For this type of MMM to succeed there needs to be at least two years of regular data for analysis. This will help to get unavoidable level of error lower. With many outputs the best business-fitting one model was chosen, and then it was run for projections. 
+This confirmed the believed affect that all marketing channels were having on each other and on sales.
 
 ## Model Building
+
+Many csv files were gathered from multiple sources. These files were imported, cleaned, and transformed with Excel and SQL Server. The output data was used as the input to Robyn, which is a R-based program running in RStudio. Robyn was adjusted, and the data was continually massaged until reasonable results began to show up. Once the results started to look promising, final tweaks were made to the code and then predictions were run.
