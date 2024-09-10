@@ -6,8 +6,8 @@ The objective was to view the effects of each marketing channel on sales, and on
 
 <img src="https://github.com/wylee3/MMM/blob/main/channels.jpg" width="500" />
 <img src="https://github.com/wylee3/MMM/blob/main/predictEffect-edit.jpg" width="500" />
-<img src="https://github.com/wylee3/MMM/blob/main/shareMediaSpend.jpg" width="500" />
-<img src="https://github.com/wylee3/MMM/blob/main/shareMediaSpendPercentage.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/shareMediaSpend-edit.jpg" width="500" />
+<img src="https://github.com/wylee3/MMM/blob/main/shareMediaSpendPercentage-edit.jpg" width="500" />
 
 
 ## Code and Applications Used:
